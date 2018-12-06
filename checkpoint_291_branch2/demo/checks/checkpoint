@@ -1,0 +1,2 @@
+model_checkpoint_path: "checks.model-35"
+all_model_checkpoint_paths: "checks.model-35"
